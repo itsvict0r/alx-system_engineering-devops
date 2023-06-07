@@ -1,1 +1,1 @@
-Creating my first bash script
+Script to print working directory
